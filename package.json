@@ -1,0 +1,32 @@
+{
+  "name": "console-build",
+  "version": "1.0.0",
+  "description": "console program plugin for web browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMrFrost/console-build.git"
+  },
+  "author": "DMrFrost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMrFrost/console-build/issues"
+  },
+  "homepage": "https://github.com/DMrFrost/console-build#readme",
+  "dependencies": {
+    "@octokit/rest": "^16.28.7",
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^5.0.0",
+    "figlet": "^1.2.3",
+    "inquirer": "^6.5.0",
+    "lodash": "^4.17.15",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.122.0",
+    "touch": "^3.1.0"
+  }
+}
